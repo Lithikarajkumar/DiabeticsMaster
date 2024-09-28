@@ -22,4 +22,25 @@ The model is trained on the popular [Pima Indians Diabetes Database](https://www
 - Diabetes Pedigree Function (DPF)
 - Age
 
+## Installation
+
+To run the application locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+
+2. **Navigate to the project directory
+   ```bash
+   cd diabetics-checkup-app
+   
+4. **Install the Required dependencies
+   ```bash
+   pip install -r requirements.txt
+
+5. **Run the Streamlit app
+   ```bash
+   streamlit run app.py
+
+
 
