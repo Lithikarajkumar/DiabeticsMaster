@@ -30,15 +30,15 @@ To run the application locally, follow these steps:
    ```bash
    git clone <repository-url>
 
-2. **Navigate to the project directory
+2. **Navigate to the project directory**:
    ```bash
    cd diabetics-checkup-app
    
-4. **Install the Required dependencies
+4. **Install the Required dependencies**:
    ```bash
    pip install -r requirements.txt
 
-5. **Run the Streamlit app
+5. **Run the Streamlit app**:
    ```bash
    streamlit run app.py
 
